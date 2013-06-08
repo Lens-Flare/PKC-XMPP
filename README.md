@@ -1,4 +1,4 @@
-SKC-XMPP
+PKC-XMPP
 ========
 
-Communication over XMPP encrypted via Symmetric Key Cryptography
+Communication over XMPP encrypted via Public Key Cryptography
